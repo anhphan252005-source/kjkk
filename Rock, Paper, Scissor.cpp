@@ -8,7 +8,7 @@ using namespace std;
 int main()
 {
     string player1;
-    string player2;
+   
 
     
     cout << "Player 1, enter your choice (rock, paper, or scissors): ";
@@ -44,3 +44,4 @@ int main()
 
     return 0;
 }
+
